@@ -27,7 +27,7 @@ public class IntegradorSimpson {
     
     //method
     /**
-     * Constructor con parámetros de la clase
+     * Constructor con parametros de la clase
      * 
      * @param paramNumSeg
      * @param paramDof
@@ -42,7 +42,7 @@ public class IntegradorSimpson {
     
     //method
     /**
-     * Integra la función de distribucion t a traves de la aplicacion
+     * Integra la funcion de distribucion t a traves de la aplicacion
      * de la regla de simpson.
      * 
      * @return 
@@ -124,7 +124,7 @@ public class IntegradorSimpson {
     
     //method
     /**
-     * Caclula el factorial del número ingresado por parámetro.
+     * Caclula el factorial del numero ingresado por parametro.
      * 
      * @param number
      * @return 
