@@ -15,4 +15,4 @@ Para descargar desde GITHUB y empaquetar proyecto siga estos pasos:
 
 Para acceder al programa desplegado en Heroku
 
-1. Desde un navegador acceda a la url urlHerokuCambiar
+1. Desde un navegador acceda a la url http://thawing-woodland-21331.herokuapp.com/
